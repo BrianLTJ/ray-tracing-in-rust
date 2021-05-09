@@ -1,0 +1,15 @@
+.DS_Store
+.idea
+.vscode
+
+*.so
+*.o
+*.out
+
+*.ppm
+*.png
+*.jpg
+*.jpeg
+
+/target
+
